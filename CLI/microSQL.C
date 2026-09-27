@@ -51,7 +51,7 @@ int check(void) {
             printf(GREEN "➢ ESP Connected On port : %s\n" RESET, comName);
       
             if (strcmp(comName, espcom) != 0) {
-                printf("nigga");
+                printf("brooo");
             }
 
         }
